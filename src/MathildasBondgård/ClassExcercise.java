@@ -11,6 +11,7 @@ public class ClassExcercise {
       
         Scanner in = new Scanner(System.in);
         in.nextLine();
+        Duck duck = new Duck();
         ArrayList<Cat> cats = new ArrayList<>();   // En Array-lista för katter
         ArrayList<Dog> dogs = new ArrayList<>();
         ArrayList<Horse> horses = new ArrayList<>();
