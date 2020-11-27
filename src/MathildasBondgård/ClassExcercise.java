@@ -10,7 +10,7 @@ public class ClassExcercise {
     public static void main(String[] args) {
       
         Scanner in = new Scanner(System.in);
-            
+        in.nextLine();
         ArrayList<Cat> cats = new ArrayList<>();   // En Array-lista för katter
         ArrayList<Dog> dogs = new ArrayList<>();
         ArrayList<Horse> horses = new ArrayList<>();
